@@ -1,0 +1,14 @@
+.settings
+.prefs
+.metadata
+.ini
+.lock
+.log
+.plugins
+.mylyn
+
+
+.war
+.ear
+.class
+.exe
